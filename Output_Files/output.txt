@@ -1,0 +1,13 @@
+Exact Isomorphs
+0 1 0: gag tot yay
+0 1 1: add egg foo
+0 1 1 2: look meet seep seer took
+0 1 2: ate bar eat fit sap
+
+Loose Isomorphs
+1 1 1: ate bar eat fit sap
+1 1 2: look meet seep seer took
+1 2: add egg foo gag tot yay
+
+Non-isomorphs
+aaa fear mates

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Isomorphic_Strings</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Output_Files\" />
+  </ItemGroup>
+
+</Project>
